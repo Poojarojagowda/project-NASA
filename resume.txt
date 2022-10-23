@@ -1,9 +1,9 @@
-Name:
-DOB:
-Salary:
-Experience:
-Last Working day:
-CTC:
+Name: johan
+DOB:  1980
+Salary: 20 laks
+Experience: 0
+Last Working day: 0
+
 
 
 
